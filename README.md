@@ -1,5 +1,7 @@
 # fastText
 
+[360搜索赛题-基于FastText文本分类方法](https://mp.weixin.qq.com/s/dLuT49hyPSzJp8tISk0DBw)
+
 [fastText](https://fasttext.cc/) is a library for efficient learning of word representations and sentence classification.
 
 ## FAQ / Cheatsheet
